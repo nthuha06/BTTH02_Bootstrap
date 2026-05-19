@@ -88,3 +88,50 @@ body{
     }
 
 }
+
+.skills-section{
+
+    background:#f8f9fa;
+
+}
+
+.skill-card{
+
+    background:white;
+
+    padding:30px;
+
+    border-radius:20px;
+
+    height:100%;
+
+    box-shadow:
+    0 10px 30px rgba(0,0,0,0.08);
+
+    transition:0.3s;
+
+}
+
+.skill-card:hover{
+
+    transform:translateY(-10px);
+
+}
+
+.skill-card h4{
+
+    color:#0e6fb8;
+
+    font-weight:700;
+
+    margin-bottom:20px;
+
+}
+
+.skill-card p{
+
+    font-size:1.1rem;
+
+    line-height:1.8;
+
+}
